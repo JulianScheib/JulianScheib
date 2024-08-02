@@ -1,6 +1,13 @@
 # Hi there, I'm Julian! 👋
 
-I'm a passionate developer who loves working with modern web technologies. Here are some of the tools and technologies I enjoy working with:
+## About me
+
+I'm a passionate junior developer who loves working with modern web technologies. 
+
+- 🚀 I’m currently working on becoming a Frontend Developer.
+- 🌱 I’m currently learning advanced React and TypeScript.
+- 🔭 I’m currently working on several exciting web development projects.
+
 
 ## I code with:
 
@@ -12,27 +19,13 @@ I'm a passionate developer who loves working with modern web technologies. Here 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/daisyui.svg" alt="daisyui" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
-## About me
 
-- 🌱 I’m currently learning advanced React and TypeScript.
-- 🔭 I’m currently working on several exciting web development projects.
-- 🤔 I’m looking for help with contributing to open source projects.
-- 💬 Ask me about web development, JavaScript, or any related topics.
-- 📫 How to reach me: 
-  - Email: yourname@example.com
-  - [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-  - [Twitter](https://twitter.com/yourtwitter)
 
-## GitHub Stats
 
-![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-⭐️ From [yourusername](https://github.com/yourusername)
