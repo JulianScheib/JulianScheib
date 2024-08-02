@@ -20,7 +20,6 @@ I'm a passionate junior developer who loves working with modern web technologies
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/postman/postman-original-wordmark.svg" alt="postman" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://daisyui.com/favicon.ico" alt="daisyui" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="margin-right: 10px;"/>
