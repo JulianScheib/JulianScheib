@@ -26,5 +26,5 @@ I'm a passionate junior developer who loves working with modern web technologies
 
 ## My Projects:
 
-- 🍔 **[Yummy](https://github.com/JulianSupercode/Project-Yummy)** - (HTML, CSS, TypeScript, Vite, React)
+- 🍔 **[Yummy](https://github.com/JulianSupercode/Project-Yummy)** - [Site]([https://github.com/JulianSupercode/Project-Yummy](https://yummy-rezepte.netlify.app/)) (HTML, CSS, TypeScript, Vite, React)
 
