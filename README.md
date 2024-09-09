@@ -26,6 +26,6 @@ I'm a passionate junior developer who loves working with modern web technologies
 
 ## My Projects:
 
-- 🍔 **[Yummy](https://github.com/JulianSupercode/Project-Yummy)** - [Site](https://yummy-rezepte.netlify.app/) (HTML, CSS, TypeScript, Vite, React)
+- 🍔 **Project Yummy: Github-[Yummy](https://github.com/JulianSupercode/Project-Yummy)** - [WebSite](https://yummy-rezepte.netlify.app/) (HTML, CSS, TypeScript, Vite, React)
 
-- 🛋️ **[New Interior](https://github.com/JulianScheib/Projekt_9_NewInterior)** - [Site](https://newinterior.netlify.app) (HTML, CSS)
+- 🛋️ **[New Interior](https://github.com/JulianScheib/Projekt_9_NewInterior)** - [WebSite](https://newinterior.netlify.app) (HTML, CSS)
