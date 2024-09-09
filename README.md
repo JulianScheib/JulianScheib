@@ -24,5 +24,7 @@ I'm a passionate junior developer who loves working with modern web technologies
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
+## My Projects:
 
+- 🍔 **[Yummy](https://github.com/JulianSupercode/Project-Yummy)** - (HTML, CSS, TypeScript, Vite, React)
 
