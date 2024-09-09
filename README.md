@@ -28,3 +28,4 @@ I'm a passionate junior developer who loves working with modern web technologies
 
 - 🍔 **[Yummy](https://github.com/JulianSupercode/Project-Yummy)** - [Site](https://yummy-rezepte.netlify.app/) (HTML, CSS, TypeScript, Vite, React)
 
+- 🛋️ ** New Interior - Site (Bitte den tatsächlichen Link zur Seite einfügen) (HTML, CSS, JavaScript, React)
