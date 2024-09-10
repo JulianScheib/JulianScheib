@@ -30,4 +30,4 @@ I'm a passionate junior developer who loves working with modern web technologies
 
 - 🛋️ **Project New Interior [New Interior](https://github.com/JulianScheib/Projekt_9_NewInterior)** - [WebSite](https://newinterior.netlify.app) (HTML, CSS)
 
-- 
+- 💰 **Project FINCO [Finco Website in Progress](https://finco-app.netlify.app/login)** (HTML, CSS, TypeScript, Vite, React, Supabase)
